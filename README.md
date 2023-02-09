@@ -1,3 +1,10 @@
 ### Python Practice 
 
-Problems/Exercises I implemented, in the framework of my first class of programing, in order to get familiar with Python
+Problems and Exercises that helped me to get familiar with Python 
+
+(In the framework of the first programming classes in university)
+
+* ROT- 13 Coding for txt files
+* Simple BlackJack Game
+* Weather Finder Program
+* Priority Queue implementation (using Heaps)
