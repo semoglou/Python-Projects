@@ -1,8 +1,8 @@
-### Python Practice 
+### Python Projects 
 
 Problems and Exercises that helped me to get familiar with Python 
 
-(In the framework of the first programming classes in university)
+(In the framework of the first programming courses in university)
 
 * ROT- 13 Coding for txt files
 * Simple BlackJack Game
