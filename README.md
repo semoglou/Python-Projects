@@ -8,3 +8,4 @@ Problems and Exercises that helped me to get familiar with Python
 * Simple BlackJack Game
 * Weather Finder Program
 * Priority Queue implementation (using Heaps)
+* Arithmetical Solution Program for a simple Logistic - Malthus (Population) Mathematical Model
