@@ -9,3 +9,4 @@ Problems and Exercises that helped me to get familiar with Python
 * Weather Finder Program
 * Priority Queue implementation (using Heaps)
 * Arithmetical Solution Program for a simple Logistic - Malthus (Population) Mathematical Model
+* Solving the Monty Hall problem with Monte Carlo simulation
