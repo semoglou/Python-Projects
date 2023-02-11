@@ -4,7 +4,7 @@ Problems and Exercises that helped me to get familiar with Python
 
 (In the framework of the first programming courses in university)
 
-**File (.py)** | Problem
+**File (.py)** | Info
 ---------- | -------
 **ROT13 Coding** | ROT- 13 Coding for txt files
 **BlackJack** | Simple BlackJack Game
