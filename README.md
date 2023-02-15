@@ -1,5 +1,10 @@
 ### Python Projects 
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/OBnIvqqpKFbZam9Wmj/giphy.gif" width="100"/>
+</div>
+
+
 Problems and Exercises that helped me to get familiar with Python 
 
 (In the framework of the first programming courses in university)
