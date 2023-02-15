@@ -1,5 +1,6 @@
 ### Python Projects <div id="header" align="center">
-  <img src="https://media.giphy.com/media/OBnIvqqpKFbZam9Wmj/giphy.gif" width="200"/>
+  <img src="![image](https://user-images.githubusercontent.com/124189083/219107680-3a83d8f4-dbac-4d54-82a7-02f06cbeb5cd.png)
+" width="200"/>
 </div>
 
 
