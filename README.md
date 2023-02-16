@@ -1,5 +1,4 @@
-##       Python Projects
-<div id="header" align="center">
+##       Python Projects<div id="header" align="center">
   <img src="https://polekon.org/wp-content/uploads/2021/12/hello_world_title3.gif" width="250"/>
 </div>
 
