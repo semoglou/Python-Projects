@@ -14,4 +14,5 @@ Problems and Exercises that helped me to get familiar with Python
 **Weather_Finder** | Finding weather conditions in a location using google data
 **priorityQueue** | Priority Queue implementation (using Heaps)
 **Monty_Hall - Monte_Carlo** | Solving the Monty Hall problem with Monte Carlo simulation
-**Matrix_Calculator** | A Linear Algebra calculator for matrices operations
+**Matrix_Calculator** | Linear Algebra calculator for matrices operations
+**Visual_Sorting** | Interactive visualisation of sorting algorithms
