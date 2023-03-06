@@ -3,7 +3,7 @@
 </div>
 
 
-Uni Python-based projects
+My Uni Python-based projects
 
 
 **File (.py)** | Info
