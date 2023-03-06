@@ -3,9 +3,8 @@
 </div>
 
 
-Problems and Exercises that helped me to get familiar with Python 
+Projects that helped me to get familiar with Python 
 
-(In the framework of the first programming courses in university)
 
 **File (.py)** | Info
 ---------- | -------
