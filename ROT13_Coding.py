@@ -22,7 +22,7 @@ def file_encode():
     tmp_file.close()
     S = ROT13(S)
     encoded_text_name = input('Coded File Name: ')
-    tmp_file = open(encoded_text_name,'w')  # Making the file
+    tmp_file = open(encoded_text_name,'w')  # Writing/Creating the file
     tmp_file.write(S)
     tmp_file.close()
 
