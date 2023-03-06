@@ -3,7 +3,7 @@
 </div>
 
 
-Projects that helped me to get familiar with Python 
+Uni Python-based projects
 
 
 **File (.py)** | Info
