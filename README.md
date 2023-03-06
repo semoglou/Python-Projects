@@ -15,4 +15,4 @@ Projects that helped me to get familiar with Python
 **Monty_Hall - Monte_Carlo** | Solving the Monty Hall problem with Monte Carlo simulation
 **Matrix_Calculator** | Linear Algebra calculator for matrices operations
 **Visual_Sorting** | Interactive visualisation of sorting algorithms
-**Collatz_Conjecture | Plots that visualize the Collatz conjecture for different ranges of input values
+**Collatz_Conjecture** | Plots that visualize the Collatz conjecture for different ranges of input values
