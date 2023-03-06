@@ -16,3 +16,4 @@ Uni Python-based projects
 **Matrix_Calculator** | Linear Algebra calculator for matrices operations
 **Visual_Sorting** | Interactive visualisation of sorting algorithms
 **Collatz_Conjecture** | Plots that visualize the Collatz conjecture for different ranges of input values
+**Game_of_Life** | Implementation of Conway's Game of Life, a cellular automaton that simulates the evolution of a population of cells on a two-dimensional grid
